@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/Mu Pass/app/src/main/java/com/example/mupass/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 781,
+          "line": 29
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/Mu Pass",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/Mu Pass/app/src/main/java/com/example/mupass/MainActivity.kt"
+}

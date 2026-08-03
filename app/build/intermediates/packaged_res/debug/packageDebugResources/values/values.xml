@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeKeep</string>
+    <style name="AppTheme" parent="Base.AppTheme"/>
+    <style name="Base.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+    
+    
+  </style>
+    <style name="ToolbarTitle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

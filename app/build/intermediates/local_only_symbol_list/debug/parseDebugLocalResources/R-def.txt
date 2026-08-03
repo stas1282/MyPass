@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_round
+id btnCopy
+id btnPasswords
+id btnSettings
+id btnToggle
+id emptyView
+id etNotes
+id etPassword
+id etTitle
+id etUrl
+id etUsername
+id fabAdd
+id layoutUrl
+id layoutUsername
+id recyclerView
+id tabLayout
+id toolbar
+id tvHello
+id tvInfo
+id tvSubtitle
+id tvTitle
+layout activity_main
+layout activity_password
+layout dialog_add_password
+layout item_password
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
+style Base.AppTheme
+style ToolbarTitle
+xml backup_rules
+xml data_extraction_rules

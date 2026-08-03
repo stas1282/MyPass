@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.safekeep.app-mergeDebugResources-38:/layout/activity_password.xml",
+        "source": "com.example.safekeep.app-main-41:/layout/activity_password.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.14.3/com.example.safekeep.app-mergeDebugResources-38:/layout/activity_password.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.14.3/com.example.safekeep.app-main-41:/layout/activity_password.xml"
+    },
+    {
+        "merged": "com.example.safekeep.app-mergeDebugResources-38:/layout/item_password.xml",
+        "source": "com.example.safekeep.app-main-41:/layout/item_password.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.14.3/com.example.safekeep.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/8.14.3/com.example.safekeep.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.safekeep.app-mergeDebugResources-38:/layout/dialog_add_password.xml",
+        "source": "com.example.safekeep.app-main-41:/layout/dialog_add_password.xml"
+    }
+]
